@@ -1,0 +1,27 @@
+
+.h6{
+  color:black;
+  font-weight: 700 !important;
+}
+.subtitle1{
+color: #1569ef !important;
+font-size: .875em!important;
+font-weight: 700 !important;
+
+}
+.div-link{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+.subtitle2{
+  color: #1569ef !important;
+font-size: .875em!important;
+font-weight: 500 !important;
+
+}
+.switch{
+  display: flex;
+  align-items: center;
+}

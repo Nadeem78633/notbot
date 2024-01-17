@@ -1,0 +1,46 @@
+.grid-container {
+  padding-left: 90px;
+  padding-right: 90px;
+}
+.button1 {
+  text-transform: none !important;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid gray !important;
+  box-shadow: none !important;
+  margin-top: 10px !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+}
+.button1:hover {
+  color: white !important;
+  background-color: #1569ef !important;
+}
+.button2 {
+  text-transform: none !important;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid gray !important;
+  box-shadow: none !important;
+  margin-top: 10px !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+}
+.button2:hover {
+  color: white !important;
+  background-color: #6c757d !important;
+}
+.button3 {
+  text-transform: none !important;
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid gray !important;
+  box-shadow: none !important;
+  margin-top: 10px !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+}
+.button3:hover {
+  color: white !important;
+  background-color: #6c757d !important;
+}
